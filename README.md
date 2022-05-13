@@ -9,9 +9,6 @@
 # Team Members
 - Adam Freeman
 - Marcus Whitelock
-- Mohamed Dallol 
-- Saroj Buragadda
-- Tracey Martin
 
 # Project Description/Outline
 
